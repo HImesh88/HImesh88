@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-chi-ivory-16.vercel.app/](https://portfolio-chi-ivory-16.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-chi-ivory-16.vercel.app/](https://himeshdevportfolio.vercel.app/)
 
 - 💬 Ask me about **React, Css**
 
