@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **officialhimesh69@gmail.com**
 
+- <a href="himeshcv.pdf" download="HimeshResume.pdf">Download My Resume</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
